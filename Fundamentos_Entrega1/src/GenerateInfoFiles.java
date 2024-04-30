@@ -1,3 +1,6 @@
+///Angélica Téllez
+///Daniela Leyva
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.nio.file.Files;
@@ -67,6 +70,7 @@ public class GenerateInfoFiles {
             analyzer.analyzeSales();
         } else {
             System.out.println("Sales person with ID " + salesPersonID + " not found.");
-        }
+        }	
     }
 }
+

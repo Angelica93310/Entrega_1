@@ -1,3 +1,6 @@
+///Angélica Téllez
+///Daniela Leyva
+
 public class Main {
 
     public static void main(String[] args) {
